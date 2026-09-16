@@ -1,5 +1,7 @@
 # Habilitar cámara y audio del Samsung Galaxy Book6 Pro en Pop!_OS — Instalación desde cero
 
+[English](README.md) | [Português](README.pt-BR.md)
+
 **Hardware:** Samsung Galaxy Book6 Pro (Panther Lake), modelo `NP940XJG-LG1BR`.
 - Cámara: sensor Samsung/SmartSens SC200PC, ACPI HID `SSLC2000`, sobre Intel IPU7.
 - Audio: amplificadores de parlantes Cirrus Logic CS35L57 (x2) vía SoundWire/SDCA, códec de auriculares/mic cs42l45.
